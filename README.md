@@ -1,5 +1,5 @@
 # Olympic_analysis
-Communication Protcol: Slack
+Communication Protcol: Slack & Zoom
 
 Predicting medal placement in the Olympics based on BMI in the Summer and Winter Olympics
 
@@ -13,4 +13,4 @@ Question: Can we predict Olympic winners based on BMI in the Summer and Winter O
 
 Data Exploration: Cleaned data in Jupyter Notebook and Excel, Calculated Data in Excel, Created Database in PGAdmin
 
-Data Analysis: Encoded Data, Dropped usless columns, Feature is everything but the medals, Taget is the medals for Neuronetwork 
+Data Analysis: LabelEncode Medal column, Drop unneccessary columns, Features include Age, Height, Weight and BMI, Target is the Medal column
