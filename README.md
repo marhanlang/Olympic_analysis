@@ -19,4 +19,4 @@ Presentation: https://docs.google.com/presentation/d/1H-2fYo0RwPQaH8hvshB_OXYWtT
 
 Data: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 
-Dashboard: file:///C:/Users/bosti/Documents/Nicepage%20Templates/Site1/index.html
+Dashboard: 
