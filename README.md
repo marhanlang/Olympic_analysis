@@ -16,3 +16,7 @@ Data Exploration: Cleaned data in Jupyter Notebook and Excel, Calculated Data in
 Data Analysis: LabelEncode Medal column, Drop unneccessary columns, Features include Age, Height, Weight and BMI, Target is the Medal column
 
 Presentation: https://docs.google.com/presentation/d/1H-2fYo0RwPQaH8hvshB_OXYWtTTLEvcz3QlgXFZ8zSM/edit?usp=sharing
+
+Data: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
+
+Dashboard: 
